@@ -1,0 +1,11 @@
+[project]
+name = "stock-manager-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=3.4.2",
+    "pandas>=3.0.3",
+    "pydantic>=2.13.4",
+]
